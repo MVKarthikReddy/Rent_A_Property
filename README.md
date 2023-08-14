@@ -1,7 +1,6 @@
 # Rent_A_Property
-# Real Estate Website README
 
-This README provides an overview of setting up and running a real estate website developed using React, Vite, and API integration.
+An overview of setting up and running a real estate website developed using React, Vite, and API integration.
 
 ## Table of Contents
 
