@@ -14,7 +14,7 @@ This README provides an overview of setting up and running a real estate website
 - [API Integration](#api-integration)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -91,7 +91,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 3. Commit your changes: `git commit -m "Add feature XYZ"`.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Create a pull request explaining your changes.
-
----
-
-Feel free to customize this README according to your specific project requirements. Make sure to update placeholders like `your-username`, API keys, and other settings as needed. Enjoy coding!
