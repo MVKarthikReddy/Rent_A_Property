@@ -1,0 +1,44 @@
+:root {
+	--mainColor: #cbdde7;
+	--mainColorLight: #5767aa;
+	--secondaryColor: #ececec;
+	--textColor: #33444f;
+}
+
+.search-section,.search-item{
+    border: 1px solid rgb(186, 184, 184);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.search-section{
+    height: 25vh;
+}
+.search-box{
+    background-color: rgb(209, 202, 202);
+    border-radius: 5px;
+    border: 0;
+    padding: 5px;
+}
+.search-button{
+    cursor: pointer;
+    border: 0;
+    background-color: var(--textColor);
+    color: var(--secondaryColor);
+    padding: 5px;
+    border-radius: 5px;
+}
+.search-item{
+    
+    border: 1px solid rgb(186, 184, 184);
+    border-radius: 5px;
+    padding: 5px;
+}
+.search-header,.search-properties{
+    width: 60vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}

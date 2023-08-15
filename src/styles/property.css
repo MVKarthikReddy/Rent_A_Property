@@ -1,0 +1,58 @@
+
+
+img {
+    border-radius: 8px;
+    height: 180px;
+    width: 350px;
+}
+.property-price{
+    color: blueviolet;
+    font-weight: bold;
+}
+.property-title{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.properties{
+    border-radius: 8px;
+    background-color: #cbdde7;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.property-details{
+    flex-basis: 25%;
+    margin: 10px 0px;
+    background: white;
+    border-radius: 8px;
+}
+.property-info{
+    padding: 10px;
+}
+.property-features{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+@media only screen and (min-width: 100px) and (max-width:550px) {
+
+    .properties{
+        width: 100%;
+        flex-direction: column;
+    }
+    .property-details{
+        margin: 5px;
+    }
+    
+}
+
+
+
+
